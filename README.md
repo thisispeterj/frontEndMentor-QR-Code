@@ -27,7 +27,7 @@ Any tools can be used to complete the challenge.
 ### Links
 
 - Solution URL: [Github](https://github.com/thisispeterj/frontEndMentor-QR-Code)
-- Live Site URL: [Github pages demo](https://thisispeterj.github.io/frontEndMentor-QR-Code/)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
